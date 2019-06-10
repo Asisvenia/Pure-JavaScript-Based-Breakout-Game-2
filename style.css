@@ -1,0 +1,13 @@
+* {
+	margin: 0;
+	padding: 0;
+}
+
+
+#myCanvas {
+	background-color: #CCE3D7;
+	margin: 0 auto;
+	display: block;
+	border: outset;
+	box-shadow: 5px 5px #95A69D;
+}
